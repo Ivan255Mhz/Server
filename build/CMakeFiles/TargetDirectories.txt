@@ -1,0 +1,4 @@
+/home/ivan/Рабочий стол/g++_prog/mess/build/CMakeFiles/server.dir
+/home/ivan/Рабочий стол/g++_prog/mess/build/CMakeFiles/client.dir
+/home/ivan/Рабочий стол/g++_prog/mess/build/CMakeFiles/edit_cache.dir
+/home/ivan/Рабочий стол/g++_prog/mess/build/CMakeFiles/rebuild_cache.dir
